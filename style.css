@@ -1,0 +1,13 @@
+body{
+    background-color: #aaa;
+    padding: 0.5rem 2rem;
+    font-family: sans-serif;
+    line-height: 1.4;letter-spacing: 0.25px;
+}
+.card{
+    width: 300px;
+    margin: 10% auto;
+    padding: 2rem;
+    background-color: #ccc;
+    border-radius: 0.15rem;
+}
